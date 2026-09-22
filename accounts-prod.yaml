@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Production APIs"
 
   contactDetails:
-    name: "Seven MadMapper - Prod Lead"
+    name: "Seven MadMapper - Production Lead"
     email: "d68d29fe26953366863fba13c0282d387cb5572c85e5f3cad281598c1ecd0c1e4064cef99cf185e32b548fb220558a4d"
 
   onCallSupport:
