@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank Cards related Production APIs Updated In File System"
+  message: "Welcome to EazyBank Cards related Prod APIs Updated In File System"
 
   contactDetails:
     name: "Yedukondalu - Full Stack Developer"
