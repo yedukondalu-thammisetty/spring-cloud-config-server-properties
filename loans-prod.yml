@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank Loans related Production APIs"
+  message: "Welcome to EazyBank Loans related Prod APIs"
 
   contactDetails:
     name: "Seven Hills - Full Stack Developer"
